@@ -17,7 +17,7 @@ codigo-fonte:
 
 comando utilizado para realizar o ataque força bruta:
 
-![image](https://user-images.githubusercontent.com/26422836/210692076-00870497-02e4-4e58-9f66-0a37fb209e2f.png)
+![image](https://user-images.githubusercontent.com/26422836/210692657-56672075-d8d3-4445-8915-d50e88a49df5.png)
 
 senha identificada:
 
