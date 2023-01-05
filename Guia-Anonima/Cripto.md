@@ -45,6 +45,40 @@ GA{c64c218a8907177bd032de8e9c8365fb}
 
 ##03##
 
+Esse desafio foi disponibilizado um codigo em python e uma flag em outra linguagem, o desafio era entender o que se passava no codigo.
+
+![image](https://user-images.githubusercontent.com/26422836/210685735-e7016174-2a1d-4532-a6de-a7dd263c9e61.png)
+
+Conteudo do codigo em cripto.py
+
+![image](https://user-images.githubusercontent.com/26422836/210685799-cec5f2c2-2ea9-4f36-be02-9f8b77d7c69f.png)
+
+Como o codigo funcionava, voce escrevi uma palavra ou mensagem e ele retornava em outra ''lingua'' ou formato de texto, não qual seria o nome correto. 
+
+exemplo
+
+![image](https://user-images.githubusercontent.com/26422836/210685953-455d52ca-b2cc-4a7c-a872-4d07cdde51e6.png)
+
+Então, a minha ideia foi, se ao escrever uma mensagem ele retorna simbolos, porque não realizar o contrario?! Colocar os simbolos e inverter a situação toda, mas note que foi uma questão matematica tudo isso.
+
+Linha sem alteração: c += chr(ord(i) + (ord(k[4]) + 2022 % 135))
+
+Linha com alteração: c += chr(ord(i) - (ord(k[4]) + 2022 % 135))
+
+Trocou o + por -
+
+E vamos realizar os testes.
+
+![image](https://user-images.githubusercontent.com/26422836/210686299-fe309d2d-7ab8-4058-9799-1b9f6bd15b2d.png)
+
+Flag: ĬĦŠŇĝŇěĘĘĕĖņėĕėĞęĕĘņęňęŋĞĞĘĜęĕĖĞŇėŇŢ
+
+![image](https://user-images.githubusercontent.com/26422836/210686378-0867c46d-2ae4-4217-bdb5-95ca9e09a36b.png)
+
+Pronto.
+
+
+
 ##04##
 
 ##05##
