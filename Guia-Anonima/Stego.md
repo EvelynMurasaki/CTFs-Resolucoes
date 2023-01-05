@@ -1,2 +1,35 @@
 
 # Desafio realizado em Stego
+
+
+##01
+
+Um dos primeiros desafios do CTF foi uma imagem no formato JPG.
+
+![image](https://user-images.githubusercontent.com/26422836/210899819-1e6cbf34-cd9b-4ed0-9b19-312b7e605f07.png)
+
+conteudo da imagem
+
+![image](https://user-images.githubusercontent.com/26422836/210899837-276f903f-25a1-4889-9497-03b9555150bd.png)
+
+Nesse desafio foi baixar uma imagem e utilizar a ferramenta exiftool.
+
+comando usado: exiftool -v santa.jpg
+
+![image](https://user-images.githubusercontent.com/26422836/210900596-a36f052e-da57-4263-beab-2a85713795e2.png)
+
+
+##02
+
+![image](https://user-images.githubusercontent.com/26422836/210900807-a74d37fc-5e42-4aed-8dd0-fa3b6e880a9a.png)
+
+
+##03
+
+![image](https://user-images.githubusercontent.com/26422836/210900824-b9be3e85-6c6f-4870-9676-cff59fb2a326.png)
+
+
+##04
+
+![image](https://user-images.githubusercontent.com/26422836/210900872-2b380afb-3bbf-474d-b182-fb69ad3b1dc9.png)
+
