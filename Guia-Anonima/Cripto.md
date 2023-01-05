@@ -84,4 +84,11 @@ Pronto.
 
 ##04##
 
+![image](https://user-images.githubusercontent.com/26422836/210690789-5d10cf7a-dff9-402a-ac56-65664b507bc0.png)
+
+
+
 ##05##
+
+![image](https://user-images.githubusercontent.com/26422836/210690814-95f30e30-a6c7-48d2-b287-bf12bbcb5e96.png)
+
