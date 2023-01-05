@@ -10,7 +10,7 @@ Vamos começar pelo desafio de Gifts, nele foi encontrado uma cifra para decifra
 ![image](https://user-images.githubusercontent.com/26422836/210684113-aa288f56-a1a4-4fa2-8651-c9105803cac1.png)
 
 
-Para resolver esse desafio foi preciso lembrar das cifras que temos, chegamos na cifra de Vinegere, note que inicialmente disse que a dica do desafio seria o nome, então usaremos o nome gifts como chave para descobrir a cifra e a flag.
+Para resolver esse desafio foi preciso lembrar das cifras que existem, ate chegar na cifra de Vinegere, note que inicialmente disse que a dica do desafio seria o nome, então usaremos o nome gifts como chave para descobrir a cifra e a flag.
 
 Eu utilizei o site: https://cryptii.com/ para realizar o desafio.
 
@@ -18,7 +18,7 @@ Eu utilizei o site: https://cryptii.com/ para realizar o desafio.
 
 ##02##
 
-O proximo desafio é uma carta cifrada, a unica pista que temos é que, a flag esta em MD5, mas infelizmente não tem algo direcionado a MD5 para descobrir como decifrar a carta. 
+O proximo desafio é uma carta cifrada, a unica pista disponibilizada é que, a flag esta em MD5, mas infelizmente não tem algo direcionado a MD5 para descobrir como decifrar a carta. 
 
 ![image](https://user-images.githubusercontent.com/26422836/210684501-92911ec6-b68a-460a-9a5e-d11ae83f9e6c.png)
 
@@ -27,17 +27,19 @@ Carta
 ![image](https://user-images.githubusercontent.com/26422836/210684398-930a2d40-b4a5-4fb3-8f2a-eb86923b44d7.png)
 
 
-Foi necessario realizar outras pesquisas sobre cifras, até que ao notar a primeira linha da carta temos algo semelhante, porem todo bagunçado, e o que seria? o Alfabeto, note a primeira linha tem 26 letras igual o alfabeto, mas será que é isso mesmo?! Vamos realizar os testes.
+Foi necessario realizar outras pesquisas sobre cifras, até que ao notar a primeira linha da carta reconheci algo semelhante, porem todo bagunçado, e o que seria? Note que a primeira linha tem 26 letras igual o alfabeto, mas será que é isso mesmo?! Vamos realizar os testes.
 
 01 = abcdefghijklmnopqrstuvwxyz
 
 02 = qkgexrnsmpwlfiyjbtodczvahu
 
-Aparentemente as coisas estão batendo, segundo teste, agora diretamente na plataforma de decifrar a carta, novamente eu usei o site Cryptii.
+Aparentemente as coisas estão batendo.
+
+Segundo teste: agora diretamente na plataforma de decifrar a carta, novamente eu usei o site Cryptii.
 
 ![image](https://user-images.githubusercontent.com/26422836/210683646-e5bd9375-2add-4428-873c-82a9cbd3188d.png)
 
-E olha lá, deu certo, conseguimos agora realizar a leitura da carta e vamos pegar a nossa flag.
+E olha lá, deu certo, consegui realizar a leitura da carta e pegar a flag.
 
 Resultado final:
 GA{c64c218a8907177bd032de8e9c8365fb}
@@ -54,9 +56,9 @@ Conteudo do codigo em cripto.py
 ![image](https://user-images.githubusercontent.com/26422836/210686535-caa6465c-5c87-4b62-88ed-34250e890f6b.png)
 
 
-Como o codigo funcionava, voce escrevia uma palavra ou mensagem e ele retornava em outra ''lingua'' ou formato de texto, não sei qual seria o nome correto. 
+Como o codigo funcionava, você escreve uma palavra ou mensagem e ele retorna em outra ''lingua'' ou formato de texto, não sei qual seria o nome correto. 
 
-exemplo
+exemplo:
 
 ![image](https://user-images.githubusercontent.com/26422836/210685953-455d52ca-b2cc-4a7c-a872-4d07cdde51e6.png)
 
