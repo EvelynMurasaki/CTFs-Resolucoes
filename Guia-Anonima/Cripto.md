@@ -21,7 +21,8 @@ Eu utilizei o site: https://cryptii.com/ para realizar o desafio.
 O proximo desafio é uma carta decifrada, a unica pista que temos é que a flag esta em MD5, mas infelizmente não tem algo diretamente a MD5 para descobrir como decifrar a carta. 
 Foi necessario realizar outras pesquisas sobre cifras, até que ao notar a primeira linha da carta temos algo semelhante, porem todo bagunçado, e o que seria? o Alfabeto, note a primeira linha tem 26 letras igual o alfabeto, mas será que é isso mesmo?! Vamos realizar os testes.
 
-01 = abcdefghijklmnopqrstuvwxyz \n
+01 = abcdefghijklmnopqrstuvwxyz
+
 02 = qkgexrnsmpwlfiyjbtodczvahu
 
 Aparentemente as coisas estão batendo, segundo teste, agora diretamente na plataforma de decifrar a carta, novamente eu usei o site Cryptii.
