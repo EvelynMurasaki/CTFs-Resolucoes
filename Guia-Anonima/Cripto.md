@@ -20,7 +20,7 @@ Eu utilizei o site: https://cryptii.com/ para realizar o desafio.
 
 O proximo desafio é uma carta decifrada, a unica pista que temos é que a flag esta em MD5, mas infelizmente não tem algo diretamente a MD5 para descobrir como decifrar a carta. 
 
-![image](https://user-images.githubusercontent.com/26422836/210684331-56d144af-6d30-4cae-a2a3-b3e38007ab87.png)
+![image](https://user-images.githubusercontent.com/26422836/210684501-92911ec6-b68a-460a-9a5e-d11ae83f9e6c.png)
 
 Carta
 
