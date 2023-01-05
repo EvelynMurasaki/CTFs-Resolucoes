@@ -1,6 +1,6 @@
 
 
-# Aqui vai encontrar os desafios realizados em Cripto.
+# Desafios realizados em Cripto.
 
 
 ##01## 
