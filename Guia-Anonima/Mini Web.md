@@ -28,3 +28,4 @@ Realizada a autenticação no desafio e capturando a flag:
 ![image](https://user-images.githubusercontent.com/26422836/210692202-19e574f5-d201-414f-8a80-c1c5ad734866.png)
 
 
+Finalizado.
