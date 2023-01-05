@@ -17,4 +17,4 @@ Desafios que foram encontrados no decorrer dos dias.
 - Miscellaneous
 - Privilege Escalation 
 
-![image](https://user-images.githubusercontent.com/26422836/210679805-3c7c8372-6c6e-4ed3-8024-59c2b55a9003.png)
+
