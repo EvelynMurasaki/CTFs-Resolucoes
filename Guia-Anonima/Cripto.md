@@ -51,7 +51,8 @@ Esse desafio foi disponibilizado um codigo em python e uma flag em outra linguag
 
 Conteudo do codigo em cripto.py
 
-![image](https://user-images.githubusercontent.com/26422836/210685799-cec5f2c2-2ea9-4f36-be02-9f8b77d7c69f.png)
+![image](https://user-images.githubusercontent.com/26422836/210686535-caa6465c-5c87-4b62-88ed-34250e890f6b.png)
+
 
 Como o codigo funcionava, voce escrevi uma palavra ou mensagem e ele retornava em outra ''lingua'' ou formato de texto, não qual seria o nome correto. 
 
