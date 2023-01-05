@@ -45,7 +45,7 @@ GA{c64c218a8907177bd032de8e9c8365fb}
 
 ##03##
 
-Esse desafio foi disponibilizado um codigo em python e uma flag em outra linguagem, o desafio era entender o que se passava no codigo.
+Neste desafio foi disponibilizado um codigo em python e uma flag em outra linguagem. O desafio era entender o que se passava no codigo.
 
 ![image](https://user-images.githubusercontent.com/26422836/210685735-e7016174-2a1d-4532-a6de-a7dd263c9e61.png)
 
@@ -54,7 +54,7 @@ Conteudo do codigo em cripto.py
 ![image](https://user-images.githubusercontent.com/26422836/210686535-caa6465c-5c87-4b62-88ed-34250e890f6b.png)
 
 
-Como o codigo funcionava, voce escrevi uma palavra ou mensagem e ele retornava em outra ''lingua'' ou formato de texto, não qual seria o nome correto. 
+Como o codigo funcionava, voce escrevia uma palavra ou mensagem e ele retornava em outra ''lingua'' ou formato de texto, não sei qual seria o nome correto. 
 
 exemplo
 
