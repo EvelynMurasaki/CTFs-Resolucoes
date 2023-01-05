@@ -18,7 +18,7 @@ Eu utilizei o site: https://cryptii.com/ para realizar o desafio.
 
 ##02##
 
-O proximo desafio é uma carta decifrada, a unica pista que temos é que a flag esta em MD5, mas infelizmente não tem algo diretamente a MD5 para descobrir como decifrar a carta. 
+O proximo desafio é uma carta cifrada, a unica pista que temos é que, a flag esta em MD5, mas infelizmente não tem algo direcionado a MD5 para descobrir como decifrar a carta. 
 
 ![image](https://user-images.githubusercontent.com/26422836/210684501-92911ec6-b68a-460a-9a5e-d11ae83f9e6c.png)
 
