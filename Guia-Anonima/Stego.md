@@ -80,3 +80,51 @@ Flag: GA{8fc678df1d5a5b6288e333c3c3ad213b}
 Desafio
 
 ![image](https://user-images.githubusercontent.com/26422836/210900872-2b380afb-3bbf-474d-b182-fb69ad3b1dc9.png)
+
+Inicialmente da a entender que seria mais uma mensagem oculta que seria possivel visualizar com a ferramenta exiftool, mas não foi o caso. 
+
+Para resolver esse desafio foi necessario utilizar duas ferramentas, exiftool e Digital Invisible Ink Toolkit.
+
+Primeiro passo foi analisar se tinha alguma dica na imagem.
+
+comando:  exiftool -v hideseek_santa.png 
+
+![image](https://user-images.githubusercontent.com/26422836/210917427-b286d3e0-fec6-4dbf-aeab-2c5fa36fcc07.png)
+ 
+ Parece que tem uma pista ali, após realizar algumas pesquisas foi possivel chegar na ferramenta Digital Invisible Ink Toolkit ou também conhecida como Diit.
+ 
+ Diit é uma ferramenta que irá analisar um arquivo e verificar se contem alguma mensagem oculta, caso tiver vai encaminhar para um arquivo de texto que for indicado.
+ 
+ comando: java -jar diit-1.5.jar
+ 
+ ![image](https://user-images.githubusercontent.com/26422836/210918501-711fac5c-09e8-4b0e-845d-d4473e3d73e2.png)
+
+Após abrir a ferramenta realizar os seguintes passos:
+
+Decode >> get image (no caso aqui estamos escolhendo a imagem que é para ser analisada)
+
+Em select an algorithm >> HideSeek ( esse caso usamos o nome do desafio como uma referencia)
+ 
+ ![image](https://user-images.githubusercontent.com/26422836/210918446-3ae3f961-363a-494f-acb2-7a82beb47305.png)
+
+Depois de selecionar a imagem e o tipo de algoritmo, precisa criar um arquivo para salvar a mensagem, caso tenha.
+
+comando: touch hidden.txt
+
+![image](https://user-images.githubusercontent.com/26422836/210919083-5fdb4aaa-abec-439d-825c-b5ed8e78e10a.png)
+
+Feito isso mostrar o caminho pra ferramenta onde salvar
+
+set Message >> Path
+
+![image](https://user-images.githubusercontent.com/26422836/210919314-7ef1d2b5-f1bb-4386-80ed-8ecdc1bd6c0a.png)
+
+Depois que ja ter selecionado o caminho, apertar o # GO
+
+Pronto, teste final verificar se foi salvado algo no arquivo
+
+comando: cat hidden.txt
+
+![image](https://user-images.githubusercontent.com/26422836/210919402-7676f101-8632-4e33-a1aa-aa1e53c453d5.png)
+
+ 
