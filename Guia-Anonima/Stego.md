@@ -43,8 +43,37 @@ Flag encontrada:
 
 ##03
 
+Esse desafio foi disponibilizado um Gif para ser analisado para capturar a flag.
+
 ![image](https://user-images.githubusercontent.com/26422836/210900824-b9be3e85-6c6f-4870-9676-cff59fb2a326.png)
 
+Para realizar esse desafio eu precisei utilizar a ferramenta stegsolve.
+
+comando: java -jar stegsolve.jar
+
+![image](https://user-images.githubusercontent.com/26422836/210905801-5e4a6a81-3cf5-48c9-9578-529ae23d1468.png)
+
+Gif sabemos que é um conjunto de varias imagens, então para resolver separei todos frames com a ferramenta e depois realizei a analise de cada imagem para verificar se mostrava a flag.
+
+Modo de uso: 
+
+File >> Open >> arquivo.gif
+
+![image](https://user-images.githubusercontent.com/26422836/210906078-fdbec264-e6a2-42eb-abc6-2f7a550122c3.png)
+
+Analyzer >> Frame Browser
+
+![image](https://user-images.githubusercontent.com/26422836/210906198-cfcba4b1-07bb-4e4a-b560-42149e8c4b3e.png)
+
+Note que agora tem 117 imagens, e com isso passei pagina por pagina até encontrar a flag.
+
+![image](https://user-images.githubusercontent.com/26422836/210906308-fb4de318-29c4-414e-b491-2f745d29d1fa.png)
+
+Imagem com a flag encontrada na pagina 82.
+
+![image](https://user-images.githubusercontent.com/26422836/210906495-e93d5f6d-9d43-427b-9e7c-46355321e338.png)
+
+Flag: GA{8fc678df1d5a5b6288e333c3c3ad213b}
 
 ##04
 
