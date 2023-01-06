@@ -21,7 +21,19 @@ comando usado: exiftool -v santa.jpg
 
 ##02
 
+Esse desafio a ideia também é analisar a imagem e conseguir a flag.
+
 ![image](https://user-images.githubusercontent.com/26422836/210900807-a74d37fc-5e42-4aed-8dd0-fa3b6e880a9a.png)
+
+Para resolver esse desafio foi necessario utilizar a ferramenta zsteg e coletar a flag.
+
+zsteg -a festa.png
+
+![image](https://user-images.githubusercontent.com/26422836/210903364-65c25314-66d9-4c53-9b04-eef709df3535.png)
+
+Flag encontrada:
+
+![image](https://user-images.githubusercontent.com/26422836/210903420-a1cc4f81-fcd2-4326-bfdd-3b0b11562180.png)
 
 
 ##03
@@ -32,4 +44,3 @@ comando usado: exiftool -v santa.jpg
 ##04
 
 ![image](https://user-images.githubusercontent.com/26422836/210900872-2b380afb-3bbf-474d-b182-fb69ad3b1dc9.png)
-
