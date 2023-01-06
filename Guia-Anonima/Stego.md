@@ -61,7 +61,7 @@ File >> Open >> arquivo.gif
 
 ![image](https://user-images.githubusercontent.com/26422836/210906078-fdbec264-e6a2-42eb-abc6-2f7a550122c3.png)
 
-Analyzer >> Frame Browser
+Analyse >> Frame Browser
 
 ![image](https://user-images.githubusercontent.com/26422836/210906198-cfcba4b1-07bb-4e4a-b560-42149e8c4b3e.png)
 
