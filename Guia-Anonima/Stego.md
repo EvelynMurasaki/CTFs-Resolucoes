@@ -25,6 +25,11 @@ Esse desafio a ideia também é analisar a imagem e conseguir a flag.
 
 ![image](https://user-images.githubusercontent.com/26422836/210900807-a74d37fc-5e42-4aed-8dd0-fa3b6e880a9a.png)
 
+conteudo da imagem:
+
+![image](https://user-images.githubusercontent.com/26422836/210903620-25314657-e4c8-4992-ba55-037055f245e7.png)
+
+
 Para resolver esse desafio foi necessario utilizar a ferramenta zsteg e coletar a flag.
 
 zsteg -a festa.png
