@@ -2,7 +2,7 @@
  Repositorio dedicado em colocar as resoluções dos CTFs que participei por ai, dando inicio no ano de 2023.
  
  Obs: Eu estou compartilhando conteudos dos quais participei, podem conter erros pois eu estou em constante aprendizado. Fiquem a vontade de compartilhar ideias ou me corrigir se caso eu falar algo errado nesse documento.
-
+ Eu coloquei a resolução dos desafios que eu consegui resolver. 
 
 # Introdução
 
@@ -20,5 +20,3 @@ Desafios que foram encontrados no decorrer dos dias.
 - Stego
 - Miscellaneous
 - Command Injection/Privilege Escalation 
-
-
