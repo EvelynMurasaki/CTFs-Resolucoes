@@ -12,7 +12,7 @@ conteudo da imagem
 
 ![image](https://user-images.githubusercontent.com/26422836/210899837-276f903f-25a1-4889-9497-03b9555150bd.png)
 
-Nesse desafio foi baixar uma imagem e utilizar a ferramenta exiftool.
+Nesse desafio tinha que baixar uma imagem e utilizar uma ferramenta para ler informações da imagem, eu utilizei a ferramente exiftool.
 
 comando usado: exiftool -v santa.jpg
 
