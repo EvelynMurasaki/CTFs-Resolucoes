@@ -8,7 +8,7 @@
 
 Resolvi começar a publicar sobre os desafios que eu participar, e o projeto piloto será o CTF do guia anonima. 
 
-CTF do Guia Anonima - Evento realizado do dia 26/12/22 até 02/01/23
+# CTF do Guia Anonima - Evento realizado do dia 26/12/22 até 02/01/23
 
 Nivel de dificuldade = Fácil e Médio
 
@@ -20,3 +20,7 @@ Desafios que foram encontrados no decorrer dos dias.
 - Stego
 - Miscellaneous
 - Command Injection/Privilege Escalation 
+
+# TryHackme 
+
+As salas do TryHackMe até o momento não tem datas definidas, estou realizando conforme o meu tempo, mas caso ocorrer algum evento, pode ser que eu poste algo direcionado ao evento.
