@@ -28,7 +28,7 @@ no primeiro momento eu pensei que seria uma hash de outro formado e depois que c
 
 Primeiro criei uma hash em md5 e depois fui realizando uma comparação da minha hash com a hash do desafio, de cara notamos que ela esta com caracteres maiores.
 
-![U![image](https://user-images.githubusercontent.com/26422836/211174772-953b5a4c-0a09-4596-983d-dc490f7a4ec3.png)
+![image](https://user-images.githubusercontent.com/26422836/211174772-953b5a4c-0a09-4596-983d-dc490f7a4ec3.png)
 
 Depois de comparar eu fui apagando as letras que achei fora do padrão.
 
