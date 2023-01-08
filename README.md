@@ -6,7 +6,7 @@
 
 # Introdução
 
-Resolvi começar a publicar sobre os desafios que eu participar, e o nosso projeto piloto será o CTF do guia anonima. 
+Resolvi começar a publicar sobre os desafios que eu participar, e o projeto piloto será o CTF do guia anonima. 
 
 CTF do Guia Anonima - Evento realizado do dia 26/12/22 até 02/01/23
 
