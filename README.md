@@ -24,3 +24,13 @@ Desafios que foram encontrados no decorrer dos dias.
 # TryHackme 
 
 As salas do TryHackMe até o momento não tem datas definidas, estou realizando conforme o meu tempo, mas caso ocorrer algum evento, pode ser que eu poste algo direcionado ao evento.
+
+As salas vão conter testes em: 
+
+- Brute force
+- Hash cracking
+- Service enumeration
+- Linux Enumeration
+- Privilege-escalation
+- Command injection
+- Others...
