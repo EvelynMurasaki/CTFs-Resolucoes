@@ -14,12 +14,12 @@ Nivel de dificuldade = Fácil e Médio
 
 Desafios que foram encontrados no decorrer dos dias.
 
-- Cripto
-- Mini Web
-- Forense
-- Stego
-- Miscellaneous
-- Command Injection/Privilege Escalation 
+- Cripto;
+- Mini Web;
+- Forense;
+- Stego;
+- Miscellaneous;
+- Command Injection/Privilege Escalation .
 
 # TryHackme 
 
@@ -27,10 +27,10 @@ As salas do TryHackMe até o momento não tem datas definidas, estou realizando 
 
 As salas vão conter testes em: 
 
-- Brute force
-- Hash cracking
-- Service enumeration
-- Linux Enumeration
-- Privilege-escalation
-- Command injection
+- Brute force;
+- Hash cracking;
+- Service enumeration;
+- Linux Enumeration;
+- Privilege-escalation;
+- Command injection;
 - Others...
