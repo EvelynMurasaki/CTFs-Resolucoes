@@ -74,8 +74,8 @@ e parace que deu certo
 
 ![image](https://github.com/EvelynMurasaki/CTFs-Resolucoes/assets/26422836/2ccdbf7b-91e0-4ff6-9f27-753105e795fc)
 
-
 BOOM!
+
 ![image](https://github.com/EvelynMurasaki/CTFs-Resolucoes/assets/26422836/0e5bc195-ed51-4a69-8e54-c07e5876b4c3)
 
 E finalizado. Esse foi o CAMINHO 1 pelo Jake.
